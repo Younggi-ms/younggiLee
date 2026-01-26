@@ -35,7 +35,7 @@
 
 ---
 
-### 🔹 고카트 긴급제동 시스템
+### 🔹 Go-Kart-Emergency-Braking-System
 - 아두이노 보드를 활용한 구동계 전자화
 - Raspberry PI 혹은 Jetson 보드를 활용하여 Lidar 모듈 테스트 및 Master 보드 구현
 
