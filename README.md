@@ -35,9 +35,9 @@
 
 ---
 
-### 🔹 MCU UART Communication Analysis
-- MCU 간 UART 통신 실험 및 데이터 송수신 구조 분석
-- 인터럽트 기반 통신 구조 이해 및 테스트
+### 🔹 고카트 긴급제동 시스템
+- 아두이노 보드를 활용한 구동계 전자화
+- Raspberry PI 혹은 Jetson 보드를 활용하여 Lidar 모듈 테스트 및 Master 보드 구현
 
 🔗 https://github.com/younggi-ms/MCU-UART-Analysis
 
