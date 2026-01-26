@@ -24,12 +24,12 @@
 
 ## 📁 Selected Projects
 
-### 🔹 Temperature Alarm System (MATLAB + Arduino)
-- 센서 데이터를 실시간 수집하고 임계값 기반 이벤트 감지 시스템 구현
-- MATLAB을 이용한 데이터 처리 및 MCU 제어 로직 설계
+### 🔐 Sensor-based Random Bit Generation & NIST SP 800-22 Validation
+- 센서 데이터를 실시간 수집하고 엔트로피 소스로 활용 가능한지 검증
+- 센서 종류, 환경 변화에 따른 품질 변화 확인
 - HW/SW 인터페이스 구조 설계 경험
 
-🔗 [https://github.com/younggi-ms/TemperatureAlarmSystem](https://github.com/Younggi-ms/Sensor-based-Random-Bit-Generation-NIST-SP-800-22-Validation)
+🔗 https://github.com/Younggi-ms/Sensor-based-Random-Bit-Generation-NIST-SP-800-22-Validation
 
 ---
 
