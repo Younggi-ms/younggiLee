@@ -29,7 +29,7 @@
 - MATLAB을 이용한 데이터 처리 및 MCU 제어 로직 설계
 - HW/SW 인터페이스 구조 설계 경험
 
-🔗 https://github.com/younggi-ms/TemperatureAlarmSystem
+🔗 [https://github.com/younggi-ms/TemperatureAlarmSystem](https://github.com/Younggi-ms/Sensor-based-Random-Bit-Generation-NIST-SP-800-22-Validation)
 
 ---
 
