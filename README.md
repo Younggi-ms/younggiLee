@@ -42,6 +42,6 @@
 ---
 
 ## 📫 Contact
-- Email: (이메일)
+- Email: gintama1827@korea.ac.kr
 - GitHub: https://github.com/younggi-ms
 
