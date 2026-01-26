@@ -39,7 +39,7 @@
 - 아두이노 보드를 활용한 구동계 전자화
 - Raspberry PI 혹은 Jetson 보드를 활용하여 Lidar 모듈 테스트 및 Master 보드 구현
 
-🔗 https://github.com/younggi-ms/MCU-UART-Analysis](https://github.com/Younggi-ms/Go-Kart-Emergency-Braking-System
+🔗 https://github.com/Younggi-ms/Go-Kart-Emergency-Braking-System
 
 ---
 
