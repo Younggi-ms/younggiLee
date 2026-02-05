@@ -24,6 +24,12 @@
 
 ---
 
+## 🏛️ History
+- 2023 학회 'KURO' 부학회장  
+- 2024 학회 'BIG-PY' 학회장 및 학회 'kuro' 부학회장 겸임
+
+---
+
 ## 📁 Selected Projects
 
 ### 🔐 Sensor-based Random Bit Generation & NIST SP 800-22 Validation
