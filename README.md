@@ -19,14 +19,13 @@
 ## 🧠 Technical Skills
 - Languages: C/C++, Python, MATLAB
 - Embedded: Arduino, UART/I2C/SPI
-- Tools: Git, Linux, Arduino Debugging tools
-- Others: Data preprocessing, experimental analysis
+- Tools: Linux, Arduino Debugging tools
 
 ---
 
 ## 🏛️ History
-- 2023 학회 'KURO' 부학회장  
-- 2024 학회 'BIG-PY' 학회장 및 학회 'kuro' 부학회장 겸임
+- 2023 교내 학회 'KURO' 부학회장  
+- 2024 교내 학회 'BIG-PY' 학회장 및 학회 'KURO' 부학회장 겸임
 
 ---
 
