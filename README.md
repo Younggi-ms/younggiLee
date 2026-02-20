@@ -38,8 +38,6 @@
 
 🔗 https://github.com/Younggi-ms/Sensor-based-Random-Bit-Generation-NIST-SP-800-22-Validation
 
-
-
 ### 🔹 Go-Kart-Emergency-Braking-System
 - 아두이노 보드를 활용한 구동계 전자화
 - Raspberry PI 혹은 Jetson 보드를 활용하여 Lidar 모듈 테스트 및 Master 보드 구현
@@ -52,6 +50,13 @@
 - 로봇에 추가 센서 탑재 시도
 
 🔗 https://github.com/Younggi-ms/Tactile-image-recognition-algorithm-based-robot-arm/blob/main/README.md
+
+### 🔹 Delivery-drone-system
+- Jetson 시리즈 보드를 이용한 드론 기체 제어
+- 이미지 인식 기반 착륙장 인식 및 GPS를 통한 위치 제어
+
+🔗 https://github.com/Younggi-ms/Delivery-drone-system
+
 
 ---
 
