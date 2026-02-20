@@ -2,7 +2,7 @@
 
 고려대학교 세종캠퍼스 전자공학과 4학년 / 인공지능사이버보안학과 이중전공
 
-컴퓨터 보안 전문가 지망 | 디지털 포렌식 · AI 활용 보안 분석 연구 관심
+보안 전문가 지망 | 디지털 포렌식 · AI 활용 보안 분석 연구 관심
 
 ---
 
@@ -24,9 +24,9 @@
 ## 기술 및 역량
 
 **프로그래밍**
-- C/C++ (상): 임베디드 펌웨어, PID 제어, 인터럽트 기반 드라이버 작성
+- C/C++ (중): 임베디드 펌웨어, PID 제어, 인터럽트 기반 드라이버 작성
 - Python (중): 멀티스레딩, GPIO 제어, 실시간 데이터 수집 파이프라인
-- MATLAB (하)
+- MATLAB (하): 전자신호 및 소리 파형 분석
 - PowerShell: 시리얼 포트 데이터 수집 및 자동화 스크립트
 
 **임베디드 / 하드웨어**
@@ -55,8 +55,8 @@
 
 ### Sensor-based Random Bit Generation & NIST SP 800-22 Validation
 
-물리 센서(조도·온도) 노이즈를 엔트로피 소스로 활용한 TRNG 파이프라인 설계 및 NIST SP 800-22 검증 프로젝트.
-Arduino 펌웨어(I2C·LSB XOR 차분), PowerShell 수집 스크립트, WSL NIST STS 빌드까지 전체 파이프라인을 단독 구현.
+물리 센서 노이즈를 엔트로피 소스로 활용한 TRNG 파이프라인 설계 및 NIST SP 800-22 검증 프로젝트.
+Arduino 펌웨어, PowerShell 수집 스크립트, WSL NIST STS 빌드까지 전체 파이프라인을 단독 구현.
 물리적 환경 조작으로 난수 편향 유도가 가능하다는 점에서 IoT 기기 암호화 키 파이프라인의 물리 공격 취약성을 실험적으로 확인.
 
 🔗 https://github.com/Younggi-ms/Sensor-based-Random-Bit-Generation-NIST-SP-800-22-Validation
@@ -66,8 +66,7 @@ Arduino 펌웨어(I2C·LSB XOR 차분), PowerShell 수집 스크립트, WSL NIST
 ### Go-Kart Emergency Braking System
 
 실사이즈 전동 고카트에 초음파 기반 긴급 제동 시스템을 구현. 기계식 제동 지연을 전자식 제동(모터 출력 즉시 차단)으로 대체.
-Python 멀티스레드 아키텍처(`threading.Lock()`), TOF 직접 계산, 6kHz PWM 제어, FSM 상태 전환 소프트웨어 전체 단독 설계.
-인증 없는 GPIO 직접 입력 구조와 이벤트 로그 미저장 문제에서 제어 시스템 보안 취약점을 구현자 시점으로 직접 인지.
+Python 멀티스레드 아키텍처, TOF 직접 계산, 6kHz PWM 제어, FSM 상태 전환 소프트웨어 전체 설계.
 
 🔗 https://github.com/Younggi-ms/Go-Kart-Emergency-Braking-System
 
@@ -76,8 +75,7 @@ Python 멀티스레드 아키텍처(`threading.Lock()`), TOF 직접 계산, 6kHz
 ### Tactile Image Recognition Algorithm Based Robot Arm
 
 힘줄 기반 8관절 로봇팔 설계 및 FOC BLDC 모터 제어 구현. 실리콘 겔 촉각 이미지 센서로 물체 인식 기능 결합.
-인터럽트 기반 홀 센서 위치 제어(`volatile`, Quadrature 디코딩, ±10 deadband), FOC 드라이버 보드 핀맵 및 마스터-슬레이브 Teensy 4.1 구조 설계 담당.
-암호화 없는 제어 신호 전달 구조와 EMI 노이즈 영향에서 하드웨어 레이어 보안 취약성을 실체적으로 경험.
+인터럽트 기반 홀 센서 위치 제어, FOC 드라이버 보드 핀맵 및 마스터-슬레이브 Teensy 4.1 구조 설계 담당.
 
 🔗 https://github.com/Younggi-ms/Tactile-image-recognition-algorithm-based-robot-arm/blob/main/README.md
 
@@ -86,7 +84,7 @@ Python 멀티스레드 아키텍처(`threading.Lock()`), TOF 직접 계산, 6kHz
 ### Delivery Drone System
 
 한강·산악 지형 등 배달 불가 지역을 위한 자율 배달 드론 시스템 설계. 기체 제작부터 비행 제어 펌웨어까지 전체 담당.
-3축 독립 PID 제어기, 5모드 FSM(수동/자율/이륙/착륙), MPU9250 IMU, GPS 파싱, RC 수신기 커스텀 인코딩 프로토콜(`(char)(val/5+52)`) 직접 설계.
+3축 독립 PID 제어기, 5모드 FSM(수동/자율/이륙/착륙), MPU9250 IMU, GPS 파싱, RC 수신기 커스텀 인코딩 프로토콜 설계.
 평문 Serial 통신·GPS 무검증 구조에서 외부 신호 의존 자율 시스템의 도청·위변조 취약성을 구현 과정에서 인지.
 
 🔗 https://github.com/Younggi-ms/Delivery-drone-system
