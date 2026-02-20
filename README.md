@@ -10,7 +10,7 @@
 
 ## 🔍 Research Interests
 - System & Software Security
-- Embedded / Firmware-level Analysis
+- Firmware-level Analysis
 - Data-driven anomaly detection
 - HW/SW Co-design
 
@@ -18,8 +18,8 @@
 
 ## 🧠 Technical Skills
 - Languages: C/C++[High], Python[Middle], MATLAB[LOW]
-- Embedded: Arduino, UART/I2C/SPI
-- Tools: Linux, Arduino Debugging tools
+- Arduino 보드 통한 기계설계, UART/I2C/SPI 통신 구현
+- Linux를 통한 앱 개발, 서버 구현
 
 ---
 
