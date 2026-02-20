@@ -17,7 +17,7 @@
 ---
 
 ## 🧠 Technical Skills
-- Languages: C/C++, Python, MATLAB
+- Languages: C/C++[High], Python[Middle], MATLAB[LOW]
 - Embedded: Arduino, UART/I2C/SPI
 - Tools: Linux, Arduino Debugging tools
 
