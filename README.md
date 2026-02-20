@@ -8,18 +8,19 @@
 
 ---
 
-## 🔍 Research Interests
-- System & Software Security
-- Firmware-level Analysis
-- Data-driven anomaly detection
-- HW/SW Co-design
+## 🔍 관심 분야
+- 시스템 & 소프트웨어 보안
+- 펌웨어 분석
+- 데이터 이상 탐지
+- HW/SW 공동설계
 
 ---
 
-## 🧠 Technical Skills
+## 🧠 기술 및 역량
 - Languages: C/C++[High], Python[Middle], MATLAB[LOW]
 - Arduino 보드 통한 기계설계, UART/I2C/SPI 통신 구현
 - Linux를 통한 앱 개발, 서버 구현
+- 구글 클라우드를 통한 LLM모델 구동용 GPU서버 구축 및 구동
 
 ---
 
