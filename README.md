@@ -37,8 +37,9 @@
 
 **시스템 / 보안**
 - Linux 기반 앱 개발 및 서버 구현
-- Google Cloud GPU 서버 구축 및 LLM 모델 운용
+- Google Cloud GPU 서버 구축
 - NIST SP 800-22 통계 검증 파이프라인 설계
+- 기초적 LLM 모델 운용[Qwen/Qwen2.5-7B-Instruct, 독서 보조 AI]
 
 ---
 
