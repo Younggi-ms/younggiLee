@@ -56,7 +56,9 @@
 ### Sensor-based Random Bit Generation & NIST SP 800-22 Validation
 
 물리 센서 노이즈를 엔트로피 소스로 활용한 TRNG 파이프라인 설계 및 NIST SP 800-22 검증 프로젝트.
+
 Arduino 펌웨어, PowerShell 수집 스크립트, WSL NIST STS 빌드까지 전체 파이프라인을 단독 구현.
+
 물리적 환경 조작으로 난수 편향 유도가 가능하다는 점에서 IoT 기기 암호화 키 파이프라인의 물리 공격 취약성을 실험적으로 확인.
 
 🔗 https://github.com/Younggi-ms/Sensor-based-Random-Bit-Generation-NIST-SP-800-22-Validation
@@ -65,7 +67,10 @@ Arduino 펌웨어, PowerShell 수집 스크립트, WSL NIST STS 빌드까지 전
 
 ### Go-Kart Emergency Braking System
 
-실사이즈 전동 고카트에 초음파 기반 긴급 제동 시스템을 구현. 기계식 제동 지연을 전자식 제동(모터 출력 즉시 차단)으로 대체.
+실사이즈 전동 고카트에 초음파 기반 긴급 제동 시스템을 구현. 
+
+기계식 제동 지연을 전자식 제동(모터 출력 즉시 차단)으로 대체.
+
 Python 멀티스레드 아키텍처, TOF 직접 계산, 6kHz PWM 제어, FSM 상태 전환 소프트웨어 전체 설계.
 
 🔗 https://github.com/Younggi-ms/Go-Kart-Emergency-Braking-System
@@ -74,7 +79,10 @@ Python 멀티스레드 아키텍처, TOF 직접 계산, 6kHz PWM 제어, FSM 상
 
 ### Tactile Image Recognition Algorithm Based Robot Arm
 
-힘줄 기반 8관절 로봇팔 설계 및 FOC BLDC 모터 제어 구현. 실리콘 겔 촉각 이미지 센서로 물체 인식 기능 결합.
+힘줄 기반 8관절 로봇팔 설계 및 FOC BLDC 모터 제어 구현.
+
+실리콘 겔 촉각 이미지 센서로 물체 인식 기능 결합.
+
 인터럽트 기반 홀 센서 위치 제어, FOC 드라이버 보드 핀맵 및 마스터-슬레이브 Teensy 4.1 구조 설계 담당.
 
 🔗 https://github.com/Younggi-ms/Tactile-image-recognition-algorithm-based-robot-arm/blob/main/README.md
@@ -83,8 +91,12 @@ Python 멀티스레드 아키텍처, TOF 직접 계산, 6kHz PWM 제어, FSM 상
 
 ### Delivery Drone System
 
-한강·산악 지형 등 배달 불가 지역을 위한 자율 배달 드론 시스템 설계. 기체 제작부터 비행 제어 펌웨어까지 전체 담당.
-3축 독립 PID 제어기, 5모드 FSM(수동/자율/이륙/착륙), MPU9250 IMU, GPS 파싱, RC 수신기 커스텀 인코딩 프로토콜 설계.
+한강·산악 지형 등 배달 불가 지역을 위한 자율 배달 드론 시스템 설계. 
+
+기체 제작 보조부터 비행 제어 펌웨어까지 전체적으로 담당.
+
+3축 독립 PID 제어기, 5모드 FSM(수동/자율/이륙/착륙), MPU9250 IMU, GPS 파싱, RC 수신기 커스텀 인코딩 프로토콜 설계
+
 평문 Serial 통신·GPS 무검증 구조에서 외부 신호 의존 자율 시스템의 도청·위변조 취약성을 구현 과정에서 인지.
 
 🔗 https://github.com/Younggi-ms/Delivery-drone-system
