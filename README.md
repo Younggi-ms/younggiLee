@@ -89,13 +89,13 @@ Python 멀티스레드 아키텍처, TOF 직접 계산, 6kHz PWM 제어, FSM 상
 
 ### Tactile Image Recognition Algorithm Based Robot Arm
 
-힘줄 기반 8관절 로봇팔 설계 및 FOC BLDC 모터 제어 구현. 
+힘줄 기반 관절 로봇팔 설계 및 FOC BLDC 모터 제어 구현. 
 
 실리콘 겔 촉각 이미지 센서로 물체 인식 기능 결합.
 
 인터럽트 기반 홀 센서 위치 제어, FOC 드라이버 보드 핀맵 및 마스터-슬레이브 Teensy 4.1 구조 설계 담당.
 
-🔗 https://github.com/Younggi-ms/Tactile-image-recognition-algorithm-based-robot-arm/blob/main/README.md
+🔗 https://github.com/Younggi-ms/Tactile-image-recognition-algorithm-based-robot-arm
 
 ---
 
